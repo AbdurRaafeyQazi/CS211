@@ -1,0 +1,93 @@
+ls -l
+displays files and directories in the current working folder in detail
+Displays file permissions 
+count of hard links
+name of the file owner
+name of the group
+File size in bytes
+name of File in directory
+
+--------------------------------------------------------
+
+ls -a 
+Lists all files and directories in the current working directory, even hidden ones
+Dots before the files are the ones that are hidden.
+
+------------------------------------------------------------------------------------------------
+
+mv
+This can either move a file or directory from one location to another 
+Or rename the file or directory
+
+------------------------------------------------------------------------------------------------------------
+
+cp 
+copies the file file to the destination 
+if you use -r then it copies the directories contents too
+
+--------------------------------------------------------------------------------------------------------
+
+rm and rm -r 
+
+rm just removes one or more specified files
+
+rm -r removes directories and their contents
+
+---------------------------------------------------------------------------------
+
+mkdir 
+
+creates directories 
+
+------------------------------------------------------------------------
+
+cd 
+
+means change directory
+
+either full path or just cd .. or cd 
+
+-----------------------------------------------------------------------------------------------
+
+pwd
+
+prints working directory
+
+-----------------------------------------------------------------------------------------------
+
+cat
+
+display the contents of a file
+or concatenate files together 
+
+-----------------------------------------------------------------------------------
+more 
+
+view large files but line by line.
+
+----------------------------------------------------------------------------------
+
+man 
+
+Displays the manual pages for commands 
+
+------------------------------------------------------------------------------------------------------------------
+
+int b;
+
+printf("%d", b);
+
+printf("%.2d", b); would print out decimal up to 2 places.
+
+printf("%.1f");
+
+scanf("%d", &d); // Scans in the user input
+
+
+
+
+
+
+
+
+
